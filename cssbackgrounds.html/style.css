@@ -1,0 +1,19 @@
+.body01{
+    background-color: darkcyan;
+    opacity:0.9;
+}
+
+div{
+    background-color: khaki;
+    opacity: 0.5;
+}
+
+.div01{
+    
+        background: rgba(0, 100, 0, 0.3) /* Green background with 30% opacity */
+    
+}
+
+.bodyimg{
+    background-image: url("look.jpg");
+}
